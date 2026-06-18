@@ -1,0 +1,39 @@
+h1, h2, h3, h4, h5, h6{
+    font-family:Courier, monospace;
+}
+h1{   
+    font-size: 40px;
+    letter-spacing: -3px;
+}
+h2, h3, h4{
+    letter-spacing: -1px;
+}
+p{
+    font-family:arial, sans-serif;
+}
+a{
+    font-family:Courier, monospace;
+    text-decoration: underline;
+}
+
+#head1{
+   text-align: center;
+}
+
+#main{
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+}
+#ctt{
+    max-width: 500px;
+    margin: auto;
+    text-align: left;
+}
+
+a,
+a:visited,
+a:hover,
+a:active {
+    color: black;
+}
